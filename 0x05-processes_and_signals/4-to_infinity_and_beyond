@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-#Bash script that displays To infinity and beyond indefinitely.
-#In between each iteration of the loop, add a sleep 2
+# a bash script that prints your bash PID
 while true
 do
-  echo "To infinity and beyond"
-  sleep 2
+echo "To infinity and beyond"
+sleep 2
 done
